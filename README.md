@@ -3,16 +3,15 @@
 A comprehensive mobile resort management and cottage booking application built with Flutter to streamline resort operations, cottage listings, and customer reservation tracking.
 
 ## 📸 App Preview
+![Front Page](https://github.com/itsBogs/poolify_app/blob/ac4232c93249b747f6405a8168a641e4caa00162/android/poolify.png)
+
 
 ### User Experience
 | Home Screen | Cottage Discovery | User Profile |
-| :---: | :---: | :---: |
-| ![Home Screen] | ![Cottage Discovery]) | ![User Profile] |
+
 
 ### Admin & Management Panels
 | Admin Dashboard | Manage Reservations | Business Reports |
-| :---: | :---: | :---: |
-| ![Admin Dashboard] | ![Manage Reservations] | ![Business Reports]
 
 ---
 
